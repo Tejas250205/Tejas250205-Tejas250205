@@ -9,6 +9,8 @@ Computational Chemical Engineering Researcher
 <p align="center">
 Process Simulation • Process Safety • Sustainable Energy Systems • Computational Modelling
 </p>
+
+
 ## About Me
 
 I am an Integrated M.Tech student in Chemical Engineering at the Institute of Chemical Technology (ICT), Mumbai – IndianOil Odisha Campus.
